@@ -80,7 +80,7 @@ On my pedal, it is organized as following:
 | 4   | **D#_0** | Shift Keys 1 Octave up        |
 | 5   | E_0      | Shift Keys 1 Semitone up      |
 | 6   | F_0      | Change MIDI channel DOWN      |
-| 7   | **F#_0   | Cycle Velocity by + 1/4 range |
+| 7   | **F#_0** | Cycle Velocity by + 1/4 range |
 | 8   | G_0      | Change MIDI channel UP        |
 | 12  | B_0      | **RESET** settings to default |
 | 13  | C_1      | Send Midi Panic CC120 on Chan |
