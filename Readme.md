@@ -1,5 +1,10 @@
 # MIDI Interface for a organ footpedal
-
+<figure>
+    <img src="https://github.com/pgreendale/MIDIFootPedal/blob/main/Images/gesamt.jpeg?raw=true"
+         alt="Completed pedal"
+         width="320" height="240">
+    <figcaption>Midified organ pedal.</figcaption>
+</figure>
 ## Intro
 This device came from a friend. I assume, its base came from an Vermona ET6-2 organ,
 an electronic organ produced in the former GDR. The build is simple, just long hinges with
@@ -20,6 +25,12 @@ Polyphonic.
 Base Note, Midi Channel and Velocity are configurable.
 
 ## Build
+<figure>
+    <img src="https://github.com/pgreendale/MIDIFootPedal/blob/main/Images/inneleben.jpeg"
+         alt="Pedals guts, housing removed"
+         width="240" height="320">
+    <figcaption>A look at the pedals guts reveal Arduino and messy wiring</figcaption>
+</figure>
 ### Hardware needed
 * Arduino Uno / Nano with Atmega328 
 * 2 220k resistors for MIDI
