@@ -29,8 +29,9 @@ Base Note, Midi Channel and Velocity are configurable.
     <img src="https://github.com/pgreendale/MIDIFootPedal/blob/main/Images/inneleben.jpeg"
          alt="Pedals guts, housing removed"
          width="240" height="320">
-    <figcaption>A look at the pedals guts reveal Arduino and messy wiring</figcaption>
+    <figcaption>A look at the pedals guts reveal the newly installed Arduino and messy wiring</figcaption>
 </figure>
+
 ### Hardware needed
 * Arduino Uno / Nano with Atmega328 
 * 2 220k resistors for MIDI
